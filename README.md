@@ -1,6 +1,6 @@
 # Preprocessing (AMBER dataset generation)
 
-This repo starts by generating AMBER simulation folders, running a sequential stretching protocol, and then collecting outputs for downstream analysis.
+This repo starts by generating AMBER simulation folders, running a sequential stretching protocol, and then collecting outputs for downstream analysis and model training.
 
 ## `utils/` scripts
 
@@ -28,6 +28,13 @@ B) Export energies (`energy.py`)
 Parses `md*.out` files and writes `energies.csv`.
     python utils/energy.py
 
+`energies.csv` is used for additional energy evaluations in the `energies/` folder, specifically in the Jupyter notebook:
+- `energies/TotalVsTime.ipynb` (analysis of total energy vs time)
+
 C) Merge + trim trajectories (`sampler.py`)  
 Reads `.nc` trajectories from `S*`, trims to DNA atoms, and saves `all_traj_DNAonly.npz`.
     python utils/sampler.py
+
+`all_traj_DNAonly.npz` is the dataset used to train the two models in this repository:
+- Conditional Real NVP
+- Real NVP with an MLP sampler
