@@ -44,7 +44,7 @@ Reads `.nc` trajectories from `S*`, trims to DNA atoms, and saves `all_traj_DNAo
 
 
 
-# Post-processing (energies/Energy_Eval.ipynb)
+# Post-processing (`energies/Energy_Eval.ipynb`)
 ### Generate samples by the Conditional Real NVP from `run_batch` function (it is currently commented out)
 Creates 4 distributions, one for each specified end-to-end conditioned distance and saves a file for each distribution
-named as "energies_all_list_low...json".
+named as `energies_all_list_low...json`.
