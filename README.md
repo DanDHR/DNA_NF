@@ -4,7 +4,7 @@ This repo starts by generating AMBER simulation folders, running a sequential st
 
 ## `utils/` scripts
 
-### 1) Generate folders + restraint/input files (`stretch.py`)
+### 1) Generate folders + restraint/input files (`stretch.py`) necessary for the production run
 Creates `S1 ... S401` and writes per-folder `stretch{i}.RST` (DISANG restraints) and `md.in`.
 
 Run:
