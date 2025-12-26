@@ -1,0 +1,4002 @@
+[
+  {
+    "bond": 111.32725178625569,
+    "angle": 335.28995650676194,
+    "torsion": 1246.911223792608,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.6757000873923,
+    "angle": 337.5861453280622,
+    "torsion": 1245.4535798784025,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.18087851704875,
+    "angle": 345.2525900153311,
+    "torsion": 1246.7799408407614,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.96305967152232,
+    "angle": 349.7774482457177,
+    "torsion": 1237.3113027180814,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.94031781402646,
+    "angle": 339.24620101374376,
+    "torsion": 1231.509681060967,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.11063005545854,
+    "angle": 338.95268882437824,
+    "torsion": 1237.5402858206578,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 1338.9864904702736,
+    "angle": 431.88326741723665,
+    "torsion": 1275.1331338890423,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.03779226416155,
+    "angle": 344.9547438958863,
+    "torsion": 1235.4956485160108,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.81602059358848,
+    "angle": 342.360858935471,
+    "torsion": 1242.1239171013322,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.18198991414465,
+    "angle": 334.2529469192826,
+    "torsion": 1240.067214763814,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.98132353394254,
+    "angle": 350.2654090210311,
+    "torsion": 1240.6224418488503,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.39990905776305,
+    "angle": 348.03327684420697,
+    "torsion": 1233.9239859130823,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.13367620070623,
+    "angle": 346.9289730429421,
+    "torsion": 1239.1046621546461,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.59573003940326,
+    "angle": 347.5535670384394,
+    "torsion": 1250.06420334826,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.3918142227552,
+    "angle": 339.6704664193877,
+    "torsion": 1233.867472091095,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.14078657941654,
+    "angle": 337.28586761263085,
+    "torsion": 1236.1279744654894,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.63814073128636,
+    "angle": 344.16690337726305,
+    "torsion": 1232.021045744647,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.99577133878923,
+    "angle": 343.2789851784934,
+    "torsion": 1228.395452384568,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.77458317102027,
+    "angle": 343.9269106884987,
+    "torsion": 1239.964236428758,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.02433529410717,
+    "angle": 346.5514292452577,
+    "torsion": 1239.9013271024646,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.63061892142943,
+    "angle": 340.05252284711906,
+    "torsion": 1235.173102482498,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.56335525075062,
+    "angle": 339.36221285030445,
+    "torsion": 1244.4788302984052,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.8692216636118,
+    "angle": 335.04897435810096,
+    "torsion": 1247.5335182939045,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.57095273457338,
+    "angle": 342.0316539348653,
+    "torsion": 1254.3126811374898,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.50546808589256,
+    "angle": 347.70650389545506,
+    "torsion": 1245.1987257921787,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.3823558924075,
+    "angle": 341.7234085713928,
+    "torsion": 1240.666017513259,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.8445009009104,
+    "angle": 397.6282079634657,
+    "torsion": 1242.0008988662785,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.52879891295278,
+    "angle": 333.4088927245277,
+    "torsion": 1237.9700162556612,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.59861749535992,
+    "angle": 341.4119981215059,
+    "torsion": 1235.1147782086014,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.50193580204396,
+    "angle": 348.78108970977604,
+    "torsion": 1239.8573991488202,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.37322669457751,
+    "angle": 341.92857755985585,
+    "torsion": 1235.593513936431,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.78940933840224,
+    "angle": 340.45329923611524,
+    "torsion": 1245.8414121977912,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.7392115182676,
+    "angle": 403.95628129547,
+    "torsion": 1239.9415192523718,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.86013531730461,
+    "angle": 335.5940204277549,
+    "torsion": 1243.4920287418604,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.58678842365855,
+    "angle": 345.41982264181394,
+    "torsion": 1242.120847298299,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.5208077877475,
+    "angle": 404.19670455086526,
+    "torsion": 1248.5939833276814,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.52182368794544,
+    "angle": 340.67080923521723,
+    "torsion": 1251.794937734508,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.59771715386647,
+    "angle": 337.5000702947321,
+    "torsion": 1250.7663838223448,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.67487154863989,
+    "angle": 337.2356305842646,
+    "torsion": 1239.8540581190107,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.09393459341949,
+    "angle": 333.0513165968098,
+    "torsion": 1240.1678179876867,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.27492894451659,
+    "angle": 342.17182992749184,
+    "torsion": 1233.1634242636067,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.28547178673242,
+    "angle": 344.93374117929665,
+    "torsion": 1246.2661321814496,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.74660522577639,
+    "angle": 338.06586356737415,
+    "torsion": 1237.6338623136453,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.76891651664135,
+    "angle": 343.33442843894886,
+    "torsion": 1236.0544391332573,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.73240998233481,
+    "angle": 343.891934272664,
+    "torsion": 1234.3715990735056,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.06339240210917,
+    "angle": 341.4230250947562,
+    "torsion": 1240.5377108439889,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.12617854452041,
+    "angle": 346.8657230555897,
+    "torsion": 1238.1563537307154,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.68954090862383,
+    "angle": 347.48256821933256,
+    "torsion": 1232.6858915588025,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.32590698147366,
+    "angle": 336.19538433921036,
+    "torsion": 1243.982997753196,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.72923417939282,
+    "angle": 339.6590448930204,
+    "torsion": 1240.4767526010937,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.9916215681437,
+    "angle": 331.47261361547,
+    "torsion": 1247.5233098196425,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.85129878990509,
+    "angle": 335.5754638949042,
+    "torsion": 1241.1773937966238,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.36344765431566,
+    "angle": 345.27393713963875,
+    "torsion": 1241.976813179927,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.50375288531156,
+    "angle": 340.445268450458,
+    "torsion": 1239.7223055027923,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.50411142491473,
+    "angle": 344.07524305821374,
+    "torsion": 1230.7347483776266,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.9059914685572,
+    "angle": 346.73246872356697,
+    "torsion": 1241.6524373237078,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.43816794583263,
+    "angle": 344.1206474377138,
+    "torsion": 1238.2190551566064,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.29238501743878,
+    "angle": 340.3702397647369,
+    "torsion": 1242.953136278384,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.76413652044408,
+    "angle": 350.2817605239255,
+    "torsion": 1239.9664601920097,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.47415616270688,
+    "angle": 341.20624539501125,
+    "torsion": 1231.5932037896453,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.2348340583349,
+    "angle": 350.140595299336,
+    "torsion": 1242.8998054498468,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.79590089553628,
+    "angle": 344.45948103873724,
+    "torsion": 1246.662967412752,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.23664885861923,
+    "angle": 337.63122467420294,
+    "torsion": 1243.678858525068,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.52489600901849,
+    "angle": 338.9279926712153,
+    "torsion": 1237.6168448029239,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.89848423915885,
+    "angle": 338.6582523641349,
+    "torsion": 1249.2040967992568,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.75370764139733,
+    "angle": 344.4694364959833,
+    "torsion": 1239.4057278971884,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.71570654626558,
+    "angle": 343.2342623205531,
+    "torsion": 1239.1713378954514,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.89727574233571,
+    "angle": 409.39658891630444,
+    "torsion": 1241.6571717331788,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.94175106435159,
+    "angle": 345.8198783046657,
+    "torsion": 1234.6353838879108,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.21621643562389,
+    "angle": 343.4178058777439,
+    "torsion": 1236.8140563967122,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.24383948455576,
+    "angle": 343.0594992227354,
+    "torsion": 1235.986580993859,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.97173778140066,
+    "angle": 333.310775045683,
+    "torsion": 1235.5505828149116,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.86590158962154,
+    "angle": 338.56089416015215,
+    "torsion": 1236.9027568728984,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.55638982688947,
+    "angle": 342.0562584587082,
+    "torsion": 1238.3869554327505,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.26417435560353,
+    "angle": 339.60723124772136,
+    "torsion": 1253.5697453642836,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.24616873104759,
+    "angle": 337.1450205833916,
+    "torsion": 1245.3368052726266,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.67236952480805,
+    "angle": 347.3957191233881,
+    "torsion": 1237.363353392989,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.03252904866439,
+    "angle": 340.0927802572742,
+    "torsion": 1257.6647215659941,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.073744463875,
+    "angle": 339.44094842068324,
+    "torsion": 1252.1185214821796,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.74827529914519,
+    "angle": 345.0192137840373,
+    "torsion": 1240.870253405539,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.78917571007635,
+    "angle": 409.07900944266675,
+    "torsion": 1249.2773567983456,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.54846024741178,
+    "angle": 343.5499786646826,
+    "torsion": 1245.214355279679,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.07761637248227,
+    "angle": 343.2758018573885,
+    "torsion": 1243.797312716795,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.71068471248473,
+    "angle": 339.91947707436964,
+    "torsion": 1236.958826512782,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.46998224203718,
+    "angle": 341.893494699015,
+    "torsion": 1240.4445403791522,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.48432655772105,
+    "angle": 342.95455994615133,
+    "torsion": 1236.224039206655,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.86443985488629,
+    "angle": 346.6558169224522,
+    "torsion": 1230.1460915097314,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.7022498004979,
+    "angle": 347.766284732928,
+    "torsion": 1245.0427321742072,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.37543901476303,
+    "angle": 340.0600070479267,
+    "torsion": 1246.0949128105467,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.41119907371856,
+    "angle": 343.15590808314073,
+    "torsion": 1245.4929515491478,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.21690022557917,
+    "angle": 328.78006530309494,
+    "torsion": 1247.56250658694,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.85871940452327,
+    "angle": 346.76949266721823,
+    "torsion": 1238.7354669248396,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.1981622684982,
+    "angle": 346.0973861340583,
+    "torsion": 1241.4687004146908,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.08257986254719,
+    "angle": 346.2082619420885,
+    "torsion": 1244.2687921810104,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.77501350971754,
+    "angle": 340.2462623315377,
+    "torsion": 1246.922482681206,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.48193713310343,
+    "angle": 345.38862810080184,
+    "torsion": 1239.8307121164712,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.80936128459514,
+    "angle": 346.49075468001354,
+    "torsion": 1228.7974663178504,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.44256296577234,
+    "angle": 341.43300927163995,
+    "torsion": 1230.660233482804,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.29299725082134,
+    "angle": 341.671237982026,
+    "torsion": 1240.0558021197355,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.34217370035087,
+    "angle": 346.5596799868698,
+    "torsion": 1243.8957961009064,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.40834830778279,
+    "angle": 347.324886467899,
+    "torsion": 1233.819667997825,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.65313648493749,
+    "angle": 337.59826547101164,
+    "torsion": 1235.8303295722653,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.44416328415588,
+    "angle": 340.7578265461821,
+    "torsion": 1241.7750398398698,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.79691337308282,
+    "angle": 338.1912370940695,
+    "torsion": 1234.7694022178534,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.4665646015116,
+    "angle": 339.28910860823856,
+    "torsion": 1251.780597874129,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.69201580470651,
+    "angle": 332.7724835612806,
+    "torsion": 1237.6376407552175,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.65164329536101,
+    "angle": 343.16839474337047,
+    "torsion": 1242.2753499952603,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.65210805203672,
+    "angle": 341.40149972634833,
+    "torsion": 1238.3781574509794,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.98830058606586,
+    "angle": 348.19295255905354,
+    "torsion": 1247.0588084046744,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.07143663949765,
+    "angle": 340.5856156212422,
+    "torsion": 1239.472055141716,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.99813774211,
+    "angle": 342.51805062959573,
+    "torsion": 1241.8551030595488,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.32161499482952,
+    "angle": 342.9178528302486,
+    "torsion": 1238.8156751957838,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.27640573016544,
+    "angle": 345.91218094069,
+    "torsion": 1244.8727912331858,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.9625267590437,
+    "angle": 345.49315709684817,
+    "torsion": 1236.9975073273733,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.71520463640785,
+    "angle": 339.31652765656975,
+    "torsion": 1230.319635426166,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.33304974499441,
+    "angle": 341.7297665521246,
+    "torsion": 1236.6963225642992,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.69585512245133,
+    "angle": 341.8683367523135,
+    "torsion": 1237.16432213014,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.96590906985631,
+    "angle": 341.65426741138697,
+    "torsion": 1231.531135153816,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.23673684100119,
+    "angle": 339.6375603247327,
+    "torsion": 1232.7663091867876,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.86983663219794,
+    "angle": 336.4435644040372,
+    "torsion": 1242.5137061917758,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.90419899118106,
+    "angle": 339.6320178905363,
+    "torsion": 1246.137794794561,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.36629431744606,
+    "angle": 343.38732294553097,
+    "torsion": 1246.2189565225722,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.0724399996989,
+    "angle": 342.55387267920526,
+    "torsion": 1244.378887116909,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.67034113976969,
+    "angle": 337.3458526786381,
+    "torsion": 1241.7921001059547,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.05604017487447,
+    "angle": 334.32750583378805,
+    "torsion": 1244.9873788620614,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.15766779642487,
+    "angle": 333.8466533967231,
+    "torsion": 1252.9651364792373,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.00075943474559,
+    "angle": 345.0570202238473,
+    "torsion": 1236.1089905107794,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.63865517749385,
+    "angle": 338.1220535384081,
+    "torsion": 1236.6603684770103,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.38360861200219,
+    "angle": 341.7490132680131,
+    "torsion": 1238.8028206293031,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.15201368204265,
+    "angle": 342.8957817887257,
+    "torsion": 1247.3516774650514,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.83934185473002,
+    "angle": 343.8657328457951,
+    "torsion": 1238.5289506598538,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.39796683528455,
+    "angle": 404.0116422718843,
+    "torsion": 1247.9946465439823,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.93031836923632,
+    "angle": 339.1507321516369,
+    "torsion": 1245.8798743955376,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.28676006762065,
+    "angle": 338.24343936621113,
+    "torsion": 1237.8776377747208,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.32998197530013,
+    "angle": 331.0205248072316,
+    "torsion": 1249.8662160356914,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.65857771660127,
+    "angle": 343.3726152999907,
+    "torsion": 1244.8094067080071,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.3353322687386,
+    "angle": 407.19176615173456,
+    "torsion": 1240.5354445675534,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.78906083517275,
+    "angle": 345.91739264318636,
+    "torsion": 1245.7735307842322,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.72073134683058,
+    "angle": 349.88402089470884,
+    "torsion": 1233.4611994921306,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.06513381870481,
+    "angle": 341.6254586517013,
+    "torsion": 1242.6805043055267,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.13489016793653,
+    "angle": 343.8227279236394,
+    "torsion": 1241.5315871969235,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.00014629327544,
+    "angle": 344.44218611853984,
+    "torsion": 1235.7230216093774,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.76022174937319,
+    "angle": 332.1781824013471,
+    "torsion": 1243.206272774285,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.21588684359197,
+    "angle": 343.6182078622267,
+    "torsion": 1236.60438414485,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.360124157674,
+    "angle": 339.52965198465785,
+    "torsion": 1237.6262983004517,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.90147450412437,
+    "angle": 338.5468965278757,
+    "torsion": 1240.0113157571843,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.00300275390508,
+    "angle": 336.89869886146676,
+    "torsion": 1236.713525313834,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.47525343521147,
+    "angle": 347.8233376606928,
+    "torsion": 1236.055852506972,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.5050429969627,
+    "angle": 340.4019941107493,
+    "torsion": 1227.8110638517267,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.93215004755024,
+    "angle": 339.3162646211584,
+    "torsion": 1240.7123862443416,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.23606808737176,
+    "angle": 343.7678955253178,
+    "torsion": 1231.0542268090903,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.10164377201583,
+    "angle": 344.29181100761457,
+    "torsion": 1245.479062740935,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.08945935178212,
+    "angle": 345.3450234852603,
+    "torsion": 1235.4830611126772,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.35769711671321,
+    "angle": 342.72767799990123,
+    "torsion": 1241.5672179674782,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.66876589043873,
+    "angle": 339.6344932497801,
+    "torsion": 1238.3240395106275,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.77734230398903,
+    "angle": 331.71166516626766,
+    "torsion": 1251.1119504973833,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.31832933152383,
+    "angle": 339.1579245973955,
+    "torsion": 1237.6420459857861,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.91496521565016,
+    "angle": 345.30447956252965,
+    "torsion": 1244.0459079484865,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.99859566077674,
+    "angle": 345.80259250181354,
+    "torsion": 1239.9820750062825,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.87625752990606,
+    "angle": 345.3738830741459,
+    "torsion": 1235.0519890425082,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.48358371836733,
+    "angle": 334.15793779931147,
+    "torsion": 1247.890542430472,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.9347532739147,
+    "angle": 344.10397226906184,
+    "torsion": 1240.9004076004712,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.61313391187679,
+    "angle": 349.7808993888403,
+    "torsion": 1241.1932900946865,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.39491640313405,
+    "angle": 345.80999168337644,
+    "torsion": 1241.7703146866413,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.0546607168865,
+    "angle": 333.0935014137574,
+    "torsion": 1245.8886650869938,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.0280446860348,
+    "angle": 345.1304244265729,
+    "torsion": 1230.635134285996,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.45216239068522,
+    "angle": 341.5825754461051,
+    "torsion": 1245.5806344833018,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.0218629016475,
+    "angle": 349.8149173437523,
+    "torsion": 1244.9241020426466,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.93270939668322,
+    "angle": 346.25710561216215,
+    "torsion": 1228.635668234604,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.493170838511,
+    "angle": 339.20448551214446,
+    "torsion": 1237.0881467744223,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.690665077297,
+    "angle": 346.57079995704197,
+    "torsion": 1253.3998919319695,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.53817109168145,
+    "angle": 341.54421079683027,
+    "torsion": 1236.5816418031661,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.26827419054895,
+    "angle": 339.0380214778688,
+    "torsion": 1236.2293229931627,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.3705496104224,
+    "angle": 338.79151535763566,
+    "torsion": 1235.5159899971338,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.40132406975069,
+    "angle": 341.0650489435141,
+    "torsion": 1235.47997881247,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.4943893680609,
+    "angle": 341.8227997154396,
+    "torsion": 1243.2555458178997,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.37636716051266,
+    "angle": 340.53547272946594,
+    "torsion": 1238.268809991374,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.128293540692,
+    "angle": 336.53264018363296,
+    "torsion": 1230.8998216499162,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.90259069876734,
+    "angle": 348.6810026843507,
+    "torsion": 1243.6113675083986,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.31151913046608,
+    "angle": 342.91201978067136,
+    "torsion": 1240.5318748490818,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.07849118176199,
+    "angle": 406.07679140955264,
+    "torsion": 1245.605309253441,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.11414456048385,
+    "angle": 342.6133161749028,
+    "torsion": 1241.2524596711417,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.88545146088755,
+    "angle": 339.35272853187575,
+    "torsion": 1235.7169257843757,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.93216167581241,
+    "angle": 342.16624259036996,
+    "torsion": 1240.407455299427,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.49409442923492,
+    "angle": 342.03846117278584,
+    "torsion": 1236.2327153151623,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.281995798844,
+    "angle": 341.03300876872714,
+    "torsion": 1241.4136252171907,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.17646549035211,
+    "angle": 339.21895018043296,
+    "torsion": 1237.6276493556868,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.99582649508123,
+    "angle": 340.9418093314818,
+    "torsion": 1233.8852526808787,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.77711209466761,
+    "angle": 339.94065005738236,
+    "torsion": 1248.9139373426683,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.62739775604773,
+    "angle": 334.1000175840768,
+    "torsion": 1246.0100115570692,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.56312207464505,
+    "angle": 338.2244413259152,
+    "torsion": 1241.5489075459668,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.56328664272738,
+    "angle": 340.5232242598816,
+    "torsion": 1239.5051875566603,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.52280107830039,
+    "angle": 342.08649431086405,
+    "torsion": 1234.2220173924306,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.74561599381339,
+    "angle": 344.8879784881271,
+    "torsion": 1240.9882596257653,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.18766455349457,
+    "angle": 340.4676804806944,
+    "torsion": 1236.2072650382356,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.77328759990276,
+    "angle": 344.29694680821143,
+    "torsion": 1238.9949988787478,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.50759175083604,
+    "angle": 348.07536889216635,
+    "torsion": 1239.2715188188488,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.9827358107266,
+    "angle": 344.12082431421226,
+    "torsion": 1249.8631690188986,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.71511756576041,
+    "angle": 339.0256319173663,
+    "torsion": 1250.828751642435,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.95504278981662,
+    "angle": 340.98282211369354,
+    "torsion": 1238.30268544859,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.99075907822092,
+    "angle": 345.7631360504413,
+    "torsion": 1239.5278356727176,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.26942663393329,
+    "angle": 345.78557953551893,
+    "torsion": 1247.5167762481003,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.94313621338648,
+    "angle": 338.2379261075196,
+    "torsion": 1238.1443644608469,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.58180556652879,
+    "angle": 337.1875019419945,
+    "torsion": 1236.5449299968166,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.53856382132943,
+    "angle": 340.7514478234898,
+    "torsion": 1242.6940137395782,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.87647291989444,
+    "angle": 338.82130035706734,
+    "torsion": 1242.6010020946226,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.28438636312977,
+    "angle": 336.5274665460532,
+    "torsion": 1248.046915376306,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.38652160017257,
+    "angle": 339.10507864067705,
+    "torsion": 1235.6505105681504,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.15562141921734,
+    "angle": 343.186559914175,
+    "torsion": 1239.2247030458075,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.18248043461465,
+    "angle": 345.7791755121935,
+    "torsion": 1249.3821681400557,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.70781115318574,
+    "angle": 343.39082104298166,
+    "torsion": 1239.1187513592592,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.64109953776372,
+    "angle": 342.4104923955797,
+    "torsion": 1242.7276815385708,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.38444512843174,
+    "angle": 342.6543845729208,
+    "torsion": 1238.4354493742806,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.07291523767475,
+    "angle": 333.7423126738568,
+    "torsion": 1237.709710178594,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.51271387176804,
+    "angle": 342.04579083459095,
+    "torsion": 1234.9798362951433,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.1345587560825,
+    "angle": 342.52710688866347,
+    "torsion": 1239.2441172145634,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.86357780988995,
+    "angle": 337.0945455923135,
+    "torsion": 1240.6935951642222,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.67626353933068,
+    "angle": 401.36593021808574,
+    "torsion": 1235.3000262428081,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.18501641691073,
+    "angle": 339.9924716803585,
+    "torsion": 1240.6602229203593,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.95865644597185,
+    "angle": 339.8471902023082,
+    "torsion": 1242.4469277134474,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.15332931496673,
+    "angle": 338.6399554476911,
+    "torsion": 1245.8455088489598,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.00864616270046,
+    "angle": 340.58499427416126,
+    "torsion": 1250.8799312048614,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.41666354731893,
+    "angle": 340.25531015706105,
+    "torsion": 1249.5258347083231,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.78328795642743,
+    "angle": 344.11313656867117,
+    "torsion": 1239.2374309025577,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.97443857065349,
+    "angle": 346.05521886800034,
+    "torsion": 1230.2450756355406,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.29588151570715,
+    "angle": 338.6792612349326,
+    "torsion": 1244.9632178044683,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.8391900509311,
+    "angle": 346.32960788150586,
+    "torsion": 1232.0818063975748,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.38993514153971,
+    "angle": 340.57579943144526,
+    "torsion": 1241.8726278009538,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.73294151991776,
+    "angle": 338.43167106234546,
+    "torsion": 1239.7452766898427,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.44732472727904,
+    "angle": 350.3194416002379,
+    "torsion": 1240.7538807927763,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.59792093018044,
+    "angle": 339.2312572289607,
+    "torsion": 1239.8853012241323,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.19387232596286,
+    "angle": 344.1992815776263,
+    "torsion": 1232.9977370698866,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.29862356094739,
+    "angle": 341.4926259968978,
+    "torsion": 1232.912158561482,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.54682026857627,
+    "angle": 345.1768253319122,
+    "torsion": 1249.1998193682266,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.02610154452788,
+    "angle": 333.6930119968509,
+    "torsion": 1248.864980232875,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.21201584671924,
+    "angle": 346.2860101039733,
+    "torsion": 1243.5560701682052,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.4207503973412,
+    "angle": 346.0371936484459,
+    "torsion": 1239.2198589290304,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.31445492294048,
+    "angle": 343.75395601611746,
+    "torsion": 1234.0318593721886,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.16761300759835,
+    "angle": 338.6353835548999,
+    "torsion": 1237.5610290205614,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.12121620506447,
+    "angle": 349.2745819784715,
+    "torsion": 1235.3583721454695,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 49467.1166385337,
+    "angle": 11459.790413967738,
+    "torsion": 2743.499402106378,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.64018666721438,
+    "angle": 406.4986739970074,
+    "torsion": 1245.117422072199,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.707945406095,
+    "angle": 347.65854301233816,
+    "torsion": 1236.881644559408,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.28315119442475,
+    "angle": 343.922359537668,
+    "torsion": 1239.9212138203773,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.60607548379988,
+    "angle": 346.1501443363284,
+    "torsion": 1242.8651379624357,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.26876425150475,
+    "angle": 336.8582921547826,
+    "torsion": 1238.1479305501878,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.0999666399983,
+    "angle": 348.1465844761573,
+    "torsion": 1231.2218711371345,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.08529455210464,
+    "angle": 345.16755618283213,
+    "torsion": 1247.479637952995,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.54129583748987,
+    "angle": 348.7054786536251,
+    "torsion": 1238.4797255107937,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.46232913511433,
+    "angle": 337.4108361012621,
+    "torsion": 1246.6214067421952,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.34290559524331,
+    "angle": 354.7396653013065,
+    "torsion": 1238.414660908182,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.48960915122387,
+    "angle": 353.9757429983602,
+    "torsion": 1233.9894544425817,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.30188210015086,
+    "angle": 344.012545809919,
+    "torsion": 1227.7955492498998,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.54782887125106,
+    "angle": 345.1603562152636,
+    "torsion": 1239.4415432263172,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.82558583575042,
+    "angle": 352.23035329158625,
+    "torsion": 1224.8341937693651,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.26774082949694,
+    "angle": 341.66776837627924,
+    "torsion": 1242.3512305544393,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.92161358747609,
+    "angle": 348.70623812848703,
+    "torsion": 1228.353838220837,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.21361935982056,
+    "angle": 342.7409669865158,
+    "torsion": 1245.1396641494212,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.56803973910912,
+    "angle": 335.11799585294995,
+    "torsion": 1244.5749506482543,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.44467750607667,
+    "angle": 343.07000741903914,
+    "torsion": 1239.0353252851255,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.97672793240665,
+    "angle": 336.0378972430986,
+    "torsion": 1236.0473464618847,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.11217680943855,
+    "angle": 337.4553137026143,
+    "torsion": 1234.2216696084456,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.83169536152943,
+    "angle": 338.38797390574933,
+    "torsion": 1230.000840083306,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.11088625286095,
+    "angle": 343.7611144997649,
+    "torsion": 1233.2495050344537,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.63949283359155,
+    "angle": 340.2455922066595,
+    "torsion": 1248.1323673637373,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.7574781158914,
+    "angle": 402.4453026386793,
+    "torsion": 1242.9198777342276,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.26081437863994,
+    "angle": 338.2484662145319,
+    "torsion": 1247.2602149140423,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.18487898387143,
+    "angle": 348.43411431941655,
+    "torsion": 1229.158066391204,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.90882286013425,
+    "angle": 343.44417802690316,
+    "torsion": 1228.7574872573975,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.44871056011483,
+    "angle": 340.52754952848295,
+    "torsion": 1237.1614174187239,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.95663900174785,
+    "angle": 346.8607939907971,
+    "torsion": 1239.2831065907476,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.83322297273128,
+    "angle": 340.575735154161,
+    "torsion": 1240.7201875720607,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.56950262080642,
+    "angle": 339.21804072524117,
+    "torsion": 1242.9626699052678,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.11127396796903,
+    "angle": 349.30137466518187,
+    "torsion": 1236.6362247566192,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.7383052504997,
+    "angle": 340.4511131246505,
+    "torsion": 1241.6269566942126,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.31781830432081,
+    "angle": 343.51002645766073,
+    "torsion": 1242.7111817541643,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.67505754248361,
+    "angle": 342.68769023523276,
+    "torsion": 1244.4094684950821,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.92323396766618,
+    "angle": 407.95775786412605,
+    "torsion": 1240.6123987119465,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.47033530393932,
+    "angle": 333.0614434601472,
+    "torsion": 1248.4499220353466,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.5583117596278,
+    "angle": 334.0260581350235,
+    "torsion": 1239.5285553767221,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.5368310735057,
+    "angle": 350.13923407968554,
+    "torsion": 1239.1728245248985,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.51587006877074,
+    "angle": 349.9872709551459,
+    "torsion": 1231.8625050965504,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.75791028170467,
+    "angle": 344.3145975328084,
+    "torsion": 1239.0626128478043,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.6274264793323,
+    "angle": 338.42480524548154,
+    "torsion": 1245.118649138661,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.37451771066931,
+    "angle": 343.1852739126231,
+    "torsion": 1230.7478164181996,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.55728264292613,
+    "angle": 341.84740583481795,
+    "torsion": 1233.2016119936457,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.9872441027406,
+    "angle": 331.45437915284134,
+    "torsion": 1241.9223155163897,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.8471456111959,
+    "angle": 338.4916864435258,
+    "torsion": 1240.3409275623396,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.32408602333433,
+    "angle": 339.03515635211426,
+    "torsion": 1253.5728840139582,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.12007698912466,
+    "angle": 337.3158702886811,
+    "torsion": 1232.786480558192,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.79436371112189,
+    "angle": 346.8969246625444,
+    "torsion": 1237.837804734251,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.55090619592319,
+    "angle": 334.00851317163176,
+    "torsion": 1247.5846145964488,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.52066966726036,
+    "angle": 342.6225878312528,
+    "torsion": 1240.6597399717307,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.47672178002206,
+    "angle": 338.2688653628639,
+    "torsion": 1243.453627990035,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.88134317781,
+    "angle": 342.2664182819782,
+    "torsion": 1247.6197805319757,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.07290430415428,
+    "angle": 345.52618468012906,
+    "torsion": 1234.9541594468442,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.64307913771094,
+    "angle": 341.0555719189616,
+    "torsion": 1248.8756789389577,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.78676668316638,
+    "angle": 345.7364484411352,
+    "torsion": 1234.746200404705,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.03445987810824,
+    "angle": 345.4510206018305,
+    "torsion": 1233.225540359492,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.94191335309759,
+    "angle": 349.84131524941205,
+    "torsion": 1240.8311240531746,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.01470373055218,
+    "angle": 344.6780718991223,
+    "torsion": 1238.4899652938768,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.82111080016506,
+    "angle": 334.34212390141096,
+    "torsion": 1253.6171864910516,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.9988721442724,
+    "angle": 342.02810591994916,
+    "torsion": 1243.216497577855,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.51503742721295,
+    "angle": 347.1753743137046,
+    "torsion": 1233.8303689405066,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.78432756537005,
+    "angle": 342.239113200463,
+    "torsion": 1248.792135906379,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.6400592450202,
+    "angle": 343.25627706246894,
+    "torsion": 1240.2639480567684,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.40909159935683,
+    "angle": 345.8376352463352,
+    "torsion": 1236.5851232828304,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.89053004649583,
+    "angle": 339.21316796005567,
+    "torsion": 1235.9016654945297,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.33928850914278,
+    "angle": 340.1376439781991,
+    "torsion": 1239.3082779392344,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.02506536553055,
+    "angle": 340.31643557502935,
+    "torsion": 1245.2166428109256,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.65872496172757,
+    "angle": 339.70464939824933,
+    "torsion": 1232.57263409362,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.16724421462867,
+    "angle": 347.5861968775324,
+    "torsion": 1229.9548027392327,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.60632119990215,
+    "angle": 336.1521095436344,
+    "torsion": 1247.6107670175868,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.08081086962902,
+    "angle": 342.77570726310773,
+    "torsion": 1239.7347183303327,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.50824363372978,
+    "angle": 339.8614216944911,
+    "torsion": 1236.0306188079526,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.0654775426219,
+    "angle": 339.4551500535604,
+    "torsion": 1246.6801671065518,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.05594421481538,
+    "angle": 342.75123266143504,
+    "torsion": 1241.8612299298236,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.18248065890134,
+    "angle": 338.2321840034616,
+    "torsion": 1242.7985610344213,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 110.91975819312363,
+    "angle": 331.60791935018096,
+    "torsion": 1246.9742859590863,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.64720930241717,
+    "angle": 341.8135223607488,
+    "torsion": 1244.7513689929851,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.72399216172343,
+    "angle": 344.2123503803523,
+    "torsion": 1234.3508449327876,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.56735616979361,
+    "angle": 341.50998610611396,
+    "torsion": 1248.37380174697,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.75217045698292,
+    "angle": 350.06044540077045,
+    "torsion": 1236.5507213523465,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.13331833761006,
+    "angle": 338.66752082941406,
+    "torsion": 1252.061210376839,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.77192683247262,
+    "angle": 347.0867345711469,
+    "torsion": 1246.317677620093,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.28893569413836,
+    "angle": 335.5957958028148,
+    "torsion": 1240.426232992007,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.77029391593275,
+    "angle": 345.081520809954,
+    "torsion": 1234.0705192026398,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.92125230902239,
+    "angle": 339.380219379301,
+    "torsion": 1245.6788947809323,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.1373292893798,
+    "angle": 341.8257309419475,
+    "torsion": 1240.0183863866625,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.20295160997438,
+    "angle": 342.10964598573645,
+    "torsion": 1247.8740535833183,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.4464298598397,
+    "angle": 342.2025385140005,
+    "torsion": 1239.632644354015,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.51780887224477,
+    "angle": 344.5750559265253,
+    "torsion": 1236.1196854060968,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.02361661571845,
+    "angle": 334.1746179825033,
+    "torsion": 1238.8886276198048,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.2135259033845,
+    "angle": 341.64983319050947,
+    "torsion": 1241.8135909602245,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.24424269915082,
+    "angle": 347.50557401668044,
+    "torsion": 1240.219529575702,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.26390014779727,
+    "angle": 338.16647210494966,
+    "torsion": 1238.6006825170825,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.31286850486157,
+    "angle": 347.82986089330785,
+    "torsion": 1227.000735842589,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.73850765921189,
+    "angle": 342.07542585369276,
+    "torsion": 1241.940220921206,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.9478843025222,
+    "angle": 349.51203275137146,
+    "torsion": 1235.008008706866,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.86815061806264,
+    "angle": 348.28739002147546,
+    "torsion": 1235.4187071180936,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.2954700918544,
+    "angle": 332.8644009894668,
+    "torsion": 1239.2785602015929,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.12895432029126,
+    "angle": 341.893261750843,
+    "torsion": 1241.6237988304454,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.69398082054823,
+    "angle": 402.8322646540392,
+    "torsion": 1249.6394065438446,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.56705802895598,
+    "angle": 340.5224335581121,
+    "torsion": 1234.2998567135223,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.84673419463702,
+    "angle": 339.6825772170583,
+    "torsion": 1239.5968673177363,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.68879145919479,
+    "angle": 340.55426152668764,
+    "torsion": 1236.0977358674456,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.8750421804862,
+    "angle": 336.58705705894334,
+    "torsion": 1243.5041646442837,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.65084233293113,
+    "angle": 336.51674021726353,
+    "torsion": 1246.6975746900698,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.4043856742961,
+    "angle": 342.8539805840808,
+    "torsion": 1260.584420971501,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.2488392087743,
+    "angle": 342.87080140232354,
+    "torsion": 1238.0562213963576,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.02766700000653,
+    "angle": 342.01638557259025,
+    "torsion": 1245.8843646667199,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.02873281402296,
+    "angle": 335.9335991438214,
+    "torsion": 1234.5818263402005,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.53534562637883,
+    "angle": 337.89653645874665,
+    "torsion": 1240.400318718777,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.80278175237301,
+    "angle": 343.64900260764824,
+    "torsion": 1243.4575917131585,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.89955644625778,
+    "angle": 344.39055003354014,
+    "torsion": 1232.2635495176905,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.98777906662191,
+    "angle": 334.5159084801464,
+    "torsion": 1236.6702021250987,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.84985049960717,
+    "angle": 339.95322925866674,
+    "torsion": 1239.535590388009,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.8701359090568,
+    "angle": 339.9754359207007,
+    "torsion": 1243.955478214625,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.31024635271177,
+    "angle": 342.4635316400181,
+    "torsion": 1240.4222432203433,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.1546852957906,
+    "angle": 341.54755344354396,
+    "torsion": 1232.7344236293554,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.29625282324066,
+    "angle": 338.38915756510045,
+    "torsion": 1242.1526919772589,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.14181752688114,
+    "angle": 343.2873277773593,
+    "torsion": 1239.0835038092464,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.11770762266666,
+    "angle": 341.64319302794127,
+    "torsion": 1257.7444122495203,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.08020661027663,
+    "angle": 338.0511796269316,
+    "torsion": 1244.4204383139743,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.72607889777159,
+    "angle": 344.5273813280503,
+    "torsion": 1229.5588229357284,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.58292130165756,
+    "angle": 339.8385836562964,
+    "torsion": 1240.8704417214567,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 2041.3508973659566,
+    "angle": 369.62933727249816,
+    "torsion": 1269.5551454365595,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.22368171429315,
+    "angle": 340.77855414687787,
+    "torsion": 1257.9241368641817,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.38196452671437,
+    "angle": 337.8565698919059,
+    "torsion": 1236.1141189605169,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.72394474788103,
+    "angle": 339.6375662510071,
+    "torsion": 1250.415347295726,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.36078014702004,
+    "angle": 342.5447997809824,
+    "torsion": 1236.360449799787,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.90443057539814,
+    "angle": 336.4088510236138,
+    "torsion": 1247.2886962684345,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.80399117551843,
+    "angle": 350.5298270778036,
+    "torsion": 1240.2305701893556,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.96272642890536,
+    "angle": 340.0605397288247,
+    "torsion": 1242.528929693863,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.23775935127448,
+    "angle": 335.40805165671935,
+    "torsion": 1246.3630641673478,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.65625689271303,
+    "angle": 337.0948731329427,
+    "torsion": 1232.2792709995608,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.96488541991486,
+    "angle": 344.64612563299175,
+    "torsion": 1247.3879075799684,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.73815161958478,
+    "angle": 336.3356093375678,
+    "torsion": 1249.7113548204957,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.3078767546732,
+    "angle": 344.2539350480468,
+    "torsion": 1240.5287783813749,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.5379668667941,
+    "angle": 345.79180804994775,
+    "torsion": 1231.4993952352902,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.6978582032096,
+    "angle": 338.51597231615114,
+    "torsion": 1233.7373754981884,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.26193603639621,
+    "angle": 336.8121693284744,
+    "torsion": 1243.849626220549,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.50519980800766,
+    "angle": 342.09700068369875,
+    "torsion": 1242.2112287458451,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.05610217282238,
+    "angle": 341.81303298724083,
+    "torsion": 1231.2037680034541,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.62768974632424,
+    "angle": 343.5345721746266,
+    "torsion": 1237.3381411553455,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.4641744930931,
+    "angle": 340.0387312668459,
+    "torsion": 1244.6086443177144,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.8634693134811,
+    "angle": 344.7050596970217,
+    "torsion": 1241.0087302669056,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.42660761153036,
+    "angle": 341.43955689315356,
+    "torsion": 1244.5150538994067,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.1186938878455,
+    "angle": 336.29182966899685,
+    "torsion": 1233.417338782469,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.72409473185785,
+    "angle": 339.3609564801247,
+    "torsion": 1239.3250745324058,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.31442619965591,
+    "angle": 342.16184187573634,
+    "torsion": 1235.4866353933828,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.65678866917042,
+    "angle": 345.50886445929854,
+    "torsion": 1234.8025210814312,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.94336962107262,
+    "angle": 340.08421610691806,
+    "torsion": 1232.2550467491492,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.17392950440912,
+    "angle": 340.7193237691263,
+    "torsion": 1235.6709882146884,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.16389427039181,
+    "angle": 349.26285570483816,
+    "torsion": 1235.1459556367838,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.25959357340066,
+    "angle": 342.5040377257659,
+    "torsion": 1244.0520511445077,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.26198277008464,
+    "angle": 340.21755614198645,
+    "torsion": 1250.6006452580825,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.26478133921869,
+    "angle": 343.2130492212211,
+    "torsion": 1245.3700775212926,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.99061228531495,
+    "angle": 340.2955550308665,
+    "torsion": 1249.0992176187995,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.62853332869636,
+    "angle": 343.047589006661,
+    "torsion": 1238.4137365803208,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.04600835986164,
+    "angle": 339.86863944088293,
+    "torsion": 1239.4053039050182,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.89883480837878,
+    "angle": 338.2417722596265,
+    "torsion": 1239.5324270752033,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.24140081897976,
+    "angle": 343.3556050688997,
+    "torsion": 1248.5850862019033,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.53978463386258,
+    "angle": 338.8436387647406,
+    "torsion": 1244.1934605928611,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.3426457509028,
+    "angle": 347.7776561138962,
+    "torsion": 1242.295215408501,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.06353167320528,
+    "angle": 340.9114344398104,
+    "torsion": 1243.4604989496518,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.08902263094316,
+    "angle": 349.2210002519888,
+    "torsion": 1232.1068784560346,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.43192143194078,
+    "angle": 346.3641607966523,
+    "torsion": 1234.7129945488323,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.86539284175485,
+    "angle": 339.69705373789566,
+    "torsion": 1235.0470411874367,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 87576.23816174713,
+    "angle": 14543.663754289966,
+    "torsion": 2868.0862787804685,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.51810814910363,
+    "angle": 347.8318512097827,
+    "torsion": 1233.3909867199611,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.62980473884888,
+    "angle": 336.6855230203778,
+    "torsion": 1241.2073278860198,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.16553698078395,
+    "angle": 333.24551673509876,
+    "torsion": 1253.0179222187394,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.86562328630377,
+    "angle": 336.07721374322074,
+    "torsion": 1252.4693615300077,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.71212138181434,
+    "angle": 341.7206537655161,
+    "torsion": 1236.134093304665,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.81117951117783,
+    "angle": 340.6368450726423,
+    "torsion": 1238.5609341254653,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.77538618485285,
+    "angle": 343.689363727606,
+    "torsion": 1239.906071391434,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.12803392793207,
+    "angle": 341.31422143137473,
+    "torsion": 1246.3199480100184,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.87270312555432,
+    "angle": 335.8534098127376,
+    "torsion": 1233.5615555397867,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.2754148917262,
+    "angle": 338.0435098881475,
+    "torsion": 1245.8065668651639,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.67288602606516,
+    "angle": 348.4291800121504,
+    "torsion": 1237.1097565708722,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.88693325378242,
+    "angle": 348.36736783014885,
+    "torsion": 1237.6821410929495,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.48903293864905,
+    "angle": 350.2097742963247,
+    "torsion": 1227.5363942875347,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.61524981613596,
+    "angle": 342.7328461670739,
+    "torsion": 1235.8313163183273,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.8339272913012,
+    "angle": 341.649590669125,
+    "torsion": 1238.4807566682991,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.53637611797616,
+    "angle": 343.5670556803278,
+    "torsion": 1233.0762410953098,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.82248707072912,
+    "angle": 347.1562041835165,
+    "torsion": 1237.0986316146518,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.7274615358896,
+    "angle": 332.12239199797006,
+    "torsion": 1244.7922768295666,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.45293826947476,
+    "angle": 337.83681306054893,
+    "torsion": 1244.8846851377596,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.38397991588876,
+    "angle": 339.4889079361983,
+    "torsion": 1237.3675888771081,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.90340487770095,
+    "angle": 343.9065676118402,
+    "torsion": 1232.2456989344744,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.3669708317598,
+    "angle": 349.6397022535422,
+    "torsion": 1241.9707929683461,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.82410584808991,
+    "angle": 339.1892255834138,
+    "torsion": 1238.5632131198852,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.31953237252755,
+    "angle": 348.7888499382121,
+    "torsion": 1236.2271380071202,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.5370792968779,
+    "angle": 346.21809271963787,
+    "torsion": 1240.9258131400804,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.46937387987943,
+    "angle": 336.84261533543895,
+    "torsion": 1247.6525948904668,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.15709956152716,
+    "angle": 338.2269139499555,
+    "torsion": 1241.870185541947,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 116.11124593942615,
+    "angle": 350.58811221478317,
+    "torsion": 1246.934524707026,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.3127556667729,
+    "angle": 337.6309871673584,
+    "torsion": 1237.4957213694688,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.48193097524843,
+    "angle": 345.1694236430793,
+    "torsion": 1240.5735263048919,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.34859686645449,
+    "angle": 339.99391176504565,
+    "torsion": 1245.0495308931083,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.18894782713676,
+    "angle": 352.3479009449596,
+    "torsion": 1236.8595824144195,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.72323496619784,
+    "angle": 345.05225458746884,
+    "torsion": 1237.3974551206336,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.83428468758927,
+    "angle": 342.06061062347817,
+    "torsion": 1240.668274077585,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.9457886770624,
+    "angle": 336.3280977847243,
+    "torsion": 1239.2369572529087,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.43810527137771,
+    "angle": 343.15331716154543,
+    "torsion": 1244.0203018272812,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.31736106945496,
+    "angle": 336.41149095094,
+    "torsion": 1235.0070266690582,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.70179415752052,
+    "angle": 339.2559647788053,
+    "torsion": 1238.4018801708294,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.2501138136446,
+    "angle": 344.1476413898213,
+    "torsion": 1238.748722387403,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 111.72328008976311,
+    "angle": 330.78609734602685,
+    "torsion": 1248.1845968988782,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.03570075244794,
+    "angle": 344.8846445028914,
+    "torsion": 1242.4873831623142,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.84309135932995,
+    "angle": 341.8734192164404,
+    "torsion": 1235.8287203465775,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.53886742892729,
+    "angle": 347.6223015648457,
+    "torsion": 1247.3993922083373,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.06139388367049,
+    "angle": 348.78587403671236,
+    "torsion": 1240.5632523745012,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.83456230710614,
+    "angle": 340.51595773569255,
+    "torsion": 1251.163498678353,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.56887329969533,
+    "angle": 342.21334484749497,
+    "torsion": 1236.5343311042961,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.26221640205748,
+    "angle": 340.82030657372553,
+    "torsion": 1234.8110372944952,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.17965131872698,
+    "angle": 334.7612161253424,
+    "torsion": 1240.8083331117666,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.52818919778097,
+    "angle": 338.9313214139774,
+    "torsion": 1244.8323668580836,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.55553712717204,
+    "angle": 340.252057544132,
+    "torsion": 1243.6721061158703,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.72857248441211,
+    "angle": 339.6836553431378,
+    "torsion": 1240.8684098213398,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.49656363062375,
+    "angle": 342.4683656564862,
+    "torsion": 1242.9895157396907,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.20268036530533,
+    "angle": 343.68753706747896,
+    "torsion": 1242.5014686701288,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.46337786504917,
+    "angle": 352.365682731395,
+    "torsion": 1240.4534852071656,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.17302050508458,
+    "angle": 336.76622748147,
+    "torsion": 1251.6446827446068,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.83655148391286,
+    "angle": 336.34571158407294,
+    "torsion": 1245.0261607296038,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.22764389191256,
+    "angle": 346.73103319755245,
+    "torsion": 1235.9332915530833,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.19973022030598,
+    "angle": 334.959114486811,
+    "torsion": 1241.286872310945,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.7211751299652,
+    "angle": 341.44106900486844,
+    "torsion": 1248.1806416128607,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.07998893365804,
+    "angle": 337.763722494501,
+    "torsion": 1244.0026938972235,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.17410934404478,
+    "angle": 342.0019505356739,
+    "torsion": 1235.092869459386,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.27230588063226,
+    "angle": 334.23519180108207,
+    "torsion": 1242.6627710048485,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.65065223992896,
+    "angle": 342.642384778929,
+    "torsion": 1242.0751052671762,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.33380853970237,
+    "angle": 345.3758613101383,
+    "torsion": 1245.30041251994,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 115.14026485027364,
+    "angle": 350.90521143225817,
+    "torsion": 1246.8428775725126,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.88920689540885,
+    "angle": 340.8586905973591,
+    "torsion": 1234.107886056414,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.4488331920558,
+    "angle": 348.2017077177934,
+    "torsion": 1229.8145096314568,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.57791200422648,
+    "angle": 342.15532707666574,
+    "torsion": 1245.2954700213088,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.30164025527341,
+    "angle": 335.46269031145374,
+    "torsion": 1243.4056183504897,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.86391811480257,
+    "angle": 346.50002998330166,
+    "torsion": 1240.1320205477866,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.66483130737655,
+    "angle": 342.1071213928281,
+    "torsion": 1240.6152056291498,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.37653674313488,
+    "angle": 339.60922680666977,
+    "torsion": 1235.1131526108682,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.54706004381634,
+    "angle": 339.04242743497593,
+    "torsion": 1251.8041796170273,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.67518724036718,
+    "angle": 343.6675518466227,
+    "torsion": 1233.1689652019886,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.3623868511922,
+    "angle": 345.11005103474133,
+    "torsion": 1236.4252083017766,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.84616892287653,
+    "angle": 341.2139830580177,
+    "torsion": 1241.0231050937284,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.96575680289624,
+    "angle": 335.7885173356328,
+    "torsion": 1250.8392269664353,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.10058342475963,
+    "angle": 341.3915057483184,
+    "torsion": 1236.3315024422072,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.738866202462,
+    "angle": 344.3074748347412,
+    "torsion": 1246.8885857875441,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.89705670176227,
+    "angle": 342.91110439920516,
+    "torsion": 1242.0353405177593,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.26005126413378,
+    "angle": 347.2865133850798,
+    "torsion": 1232.8196307412752,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.61173006134324,
+    "angle": 340.4142482786744,
+    "torsion": 1243.9770569907319,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.59524567678827,
+    "angle": 347.2449879801296,
+    "torsion": 1234.5130209299962,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.97682776733748,
+    "angle": 339.23529689672114,
+    "torsion": 1235.7627260525412,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.96598519604247,
+    "angle": 347.5950815025752,
+    "torsion": 1247.098830701288,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.38387027981176,
+    "angle": 345.93226075400355,
+    "torsion": 1243.1330345214894,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.47020561699657,
+    "angle": 344.7605601688188,
+    "torsion": 1235.6488951490783,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 113.28892794439487,
+    "angle": 341.5316692045952,
+    "torsion": 1233.0688519570726,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 114.99868296300475,
+    "angle": 344.2753731178736,
+    "torsion": 1239.47858579642,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  },
+  {
+    "bond": 112.27133465542619,
+    "angle": 337.23316251889696,
+    "torsion": 1234.4792125814274,
+    "nonbonded": 0.0,
+    "CustomGBForce": 0.0,
+    "CMMotionRemover": 0.0
+  }
+]
