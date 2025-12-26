@@ -1,0 +1,50 @@
+#!/bin/bash
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=8
+#SBATCH --error=error.log
+#SBATCH --output=run.log
+#SBATCH --exclusive
+#SBATCH -p MD
+
+# Load environment if needed
+source ~/.bashrc
+
+# Total number of simulations
+TOTAL=161
+
+# Loop through all folders
+for ((CURR=1; CURR<=TOTAL; CURR++)); do
+    FOLDER="S${CURR}"
+    echo "=============================="
+    echo "Starting simulation ${CURR} in ${FOLDER}"
+    echo "=============================="
+
+    cd "${FOLDER}"
+
+    # Define previous restart file
+    if [ ${CURR} -eq 1 ]; then
+        PREV_RST="stretch0.rst7"   # initial structure
+    else
+        PREV_RST="stretch$((CURR - 1)).rst7"
+    fi
+
+    # Run Amber simulation
+    pmemd.cuda -O -i md.in -p topology.prmtop \
+        -c ${PREV_RST} -r stretch${CURR}.rst7 \
+        -o md${CURR}.out -x md${CURR}.nc -ref ${PREV_RST}
+
+    echo "Finished simulation ${CURR}"
+
+    # Copy restart/topology to next folder (unless this is the last one)
+    if [ ${CURR} -lt ${TOTAL} ]; then
+        NEXT_FOLDER="../S$((CURR + 1))"
+        cp topology.prmtop "${NEXT_FOLDER}/"
+        cp stretch${CURR}.rst7 "${NEXT_FOLDER}/stretch${CURR}.rst7"
+        cd ..
+    fi
+done
+
+echo "=============================="
+echo "All ${TOTAL} simulations completed!"
+echo "=============================="
