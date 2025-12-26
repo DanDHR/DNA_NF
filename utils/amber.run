@@ -11,7 +11,7 @@
 source ~/.bashrc
 
 # Total number of simulations
-TOTAL=161
+TOTAL=401
 
 # Loop through all folders
 for ((CURR=1; CURR<=TOTAL; CURR++)); do
