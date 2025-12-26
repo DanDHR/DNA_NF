@@ -35,6 +35,16 @@ C) Merge + trim trajectories (`sampler.py`)
 Reads `.nc` trajectories from `S*`, trims to DNA atoms, and saves `all_traj_DNAonly.npz`.
     python utils/sampler.py
 
+
+
+
 `all_traj_DNAonly.npz` is the dataset used to train the two models in this repository:
 - Conditional Real NVP
 - Real NVP with an MLP sampler
+
+
+
+# Post-processing (energies/Energy_Eval.ipynb)
+### Generate samples by the Conditional Real NVP from `run_batch` function (it is currently commented out)
+Creates 4 distributions, one for each specified end-to-end conditioned distance and saves a file for each distribution
+named as "energies_all_list_low...json".
