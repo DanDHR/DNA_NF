@@ -1,3 +1,5 @@
+⚠ **Warning:** This project was developed in **Google Colab** and some scripts/notebooks assume a Drive mount + a specific working directory (e.g., `drive.mount('/content/gdrive')` and `cd /content/gdrive/...`). If you run locally or on a cluster, **remove/modify these lines and set up your own paths/environment** before running.
+
 # Preprocessing (AMBER dataset generation)
 
 This repo starts by generating AMBER simulation folders, running a sequential stretching protocol, and then collecting outputs for downstream analysis and model training.
